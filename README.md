@@ -41,5 +41,6 @@ Stay hungry. Stay foolish.
 | [R9-fileserver](https://github.com/crafcat7/R9-fileserver) | Cross-platform 9P file server (Rust) | Rust | ⭐2 |
 | [wezterm-config](https://github.com/crafcat7/wezterm-config) | Personal WezTerm terminal configuration | Lua | ⭐5 |
 | [Quant-Analysis](https://github.com/crafcat7/Quant-Analysis) | Anti-quantization value analysis auxiliary tool | Python | — |
+| [workflowUI](https://github.com/crafcat7/workflowUI) | A visual, programmable inference framework orchestration workbench. Using a node graph paradigm, drag and drop to build inference pipelines, supporting step-by-step debugging, breakpoints, and data analysis. | TypeScript | ⭐1 |
 
 ---
