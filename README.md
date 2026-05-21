@@ -36,10 +36,9 @@ Stay hungry. Stay foolish.
 
 | Project | Description | Language | Stars |
 | :--- | :--- | :--- | :---: |
+| [Peakmon](https://github.com/crafcat7/Peakmon) |A focused, native macOS system monitor for your menu bar. | Swift | ⭐7 |
 | [rdnat](https://github.com/crafcat7/rdnat) | Rust-based target conversion tool | Rust | ⭐5 |
-| [adaptive-replacement-cache](https://github.com/crafcat7/adaptive-replacement-cache) | C-language adaptive replacement cache implementation | C | ⭐1 |
-| [R9-fileserver](https://github.com/crafcat7/R9-fileserver) | Cross-platform 9P file server (Rust) | Rust | ⭐2 |
 | [wezterm-config](https://github.com/crafcat7/wezterm-config) | Personal WezTerm terminal configuration | Lua | ⭐5 |
-| [workflowUI](https://github.com/crafcat7/workflowUI) | A visual, programmable inference framework orchestration workbench. Using a node graph paradigm, drag and drop to build inference pipelines, supporting step-by-step debugging, breakpoints, and data analysis. | TypeScript | ⭐6 |
+| [SKILLS](https://github.com/crafcat7/SKILLS) | A collection of OpenCode skills that shape agent behavior during development workflows. | Markdown | ⭐2 |
 
 ---
