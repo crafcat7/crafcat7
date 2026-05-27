@@ -36,7 +36,7 @@ Stay hungry. Stay foolish.
 
 | Project | Description | Language | Stars |
 | :--- | :--- | :--- | :---: |
-| [Peakmon](https://github.com/crafcat7/Peakmon) |A focused, native macOS system monitor for your menu bar. | Swift | ⭐7 |
+| [Peakmon](https://github.com/crafcat7/Peakmon) |A focused, native macOS system monitor for your menu bar. | Swift | ⭐16 |
 | [rdnat](https://github.com/crafcat7/rdnat) | Rust-based target conversion tool | Rust | ⭐5 |
 | [wezterm-config](https://github.com/crafcat7/wezterm-config) | Personal WezTerm terminal configuration | Lua | ⭐5 |
 | [SKILLS](https://github.com/crafcat7/SKILLS) | A collection of OpenCode skills that shape agent behavior during development workflows. | Markdown | ⭐2 |
