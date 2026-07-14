@@ -12,7 +12,7 @@ Stay hungry. Stay foolish.
 
 🎯 Focus on: High-Performance Caching, RTOS Kernel, File Systems, AI Inference Frameworks, Debug Tools
 
-📍 Location: Amoy · 🏢 Working at: Vela Technology
+📍 Location: China · 🏢 Working at: Vela Technology
 
 🤝 Contributed to: Open-source projects such as NuttX, unqlite
 
@@ -36,7 +36,7 @@ Stay hungry. Stay foolish.
 
 | Project | Description | Language | Stars |
 | :--- | :--- | :--- | :---: |
-| [Peakmon](https://github.com/crafcat7/Peakmon) |A focused, native macOS system monitor for your menu bar. | Swift | ⭐24 |
+| [Peakmon](https://github.com/crafcat7/Peakmon) |A focused, native macOS system monitor for your menu bar. | Swift | ⭐25 |
 | [rdnat](https://github.com/crafcat7/rdnat) | Rust-based target conversion tool | Rust | ⭐5 |
 | [wezterm-config](https://github.com/crafcat7/wezterm-config) | Personal WezTerm terminal configuration | Lua | ⭐5 |
 | [SKILLS](https://github.com/crafcat7/SKILLS) | A collection of OpenCode skills that shape agent behavior during development workflows. | Markdown | ⭐2 |
