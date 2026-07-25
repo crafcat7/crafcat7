@@ -36,6 +36,6 @@ Stay hungry. Stay foolish.
 
 | Project | Description | Language | Stars |
 | :--- | :--- | :--- | :---: |
-| [Peakmon](https://github.com/crafcat7/Peakmon) |A focused, native macOS system monitor for your menu bar. | Swift | ⭐26 |
+| [Peakmon](https://github.com/crafcat7/Peakmon) |A focused, native macOS system monitor for your menu bar. | Swift | ⭐31 |
 
 ---
