@@ -12,7 +12,7 @@ Stay hungry. Stay foolish.
 
 🎯 Focus on: High-Performance Caching, RTOS Kernel, File Systems, AI Inference Frameworks, Debug Tools
 
-📍 Location: China · 🏢 Working at: Vela Technology
+📍 Location: China
 
 🤝 Contributed to: Open-source projects such as NuttX, unqlite
 
