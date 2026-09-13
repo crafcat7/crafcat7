@@ -36,7 +36,7 @@ Stay hungry. Stay foolish.
 
 | Project | Description | Language | Stars |
 | :--- | :--- | :--- | :---: |
-| [Peakmon](https://github.com/crafcat7/Peakmon) |A focused, native macOS system monitor for your menu bar. | Swift | ⭐36 |
-| [ncnn-MoE-Runtime](https://github.com/crafcat7/ncnn-MoE-Runtime) |A lightweight heterogeneous MoE inference runtime based on ncnn. | C++ | ⭐29 |
+| [Peakmon](https://github.com/crafcat7/Peakmon) |A focused, native macOS system monitor for your menu bar. | Swift | ⭐37 |
+| [ncnn-MoE-Runtime](https://github.com/crafcat7/ncnn-MoE-Runtime) |A lightweight heterogeneous MoE inference runtime based on ncnn. | C++ | ⭐33 |
 
 ---
